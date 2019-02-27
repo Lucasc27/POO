@@ -100,7 +100,7 @@ mtx3 <- matrix(seq(16,256,16), nrow = 4)
 mtx3
 
 # 7) Crie uma lista com o data.frame que você criou, a primeira matriz, um vetor numérico à sua escolha e um vetor de texto à sua escolha. Apresente a lista.
-lista <- list(df, mtx1, vetor4, c("Banana", "Uva", "Maça"))
+lista <- list(df, mtx1, vetor4, c("Banana", "Uva", "Maça", "Morango"))
 lista
 
 
